@@ -68,20 +68,6 @@ This project is primarily built using the following frameworks and libraries:
 
 <p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
-## Preview
-
-See how ✨Showlit looks in both light and dark themes:
-
-### 🌞 Light Mode
-
-![Light Mode][screenshot-light]
-
-### 🌚 Dark Mode
-
-![Dark Mode][screenshot-dark]
-
-<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
-
 <!-- GETTING STARTED -->
 
 ## Getting Started
