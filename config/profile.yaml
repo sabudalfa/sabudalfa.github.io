@@ -46,20 +46,20 @@ profile:
 # # =====================================================
 
 education:
-  - degree: "Ph.D. in Computer Science and Engineering"
+  - degree: "PhD in Computer Science and Engineering"
     school: "King Fahd University of Petroleum & Minerals"
     years: "2013 - 2018"
     logo: "https://upload.wikimedia.org/wikipedia/ar/archive/3/37/20221103091849%21King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png"
 
-  - degree: "M.S. in Computer Science"
-    school: "National Taiwan University"
-    years: "2020 - 2022"
-    logo: "/images/ntu_logo.svg"
+  - degree: "MSc in Computer Engineering"
+    school: "Islamic University of Gaza"
+    years: "2007 - 2010"
+    logo: "/images/IUGaza.png"
 
-  - degree: "B.S. in Computer Science"
-    school: "National Chengchi University"
-    years: "2018 - 2020"
-    logo: "/images/nccu_logo.svg"
+  - degree: "BSc in Computer Engineering"
+    school: "Islamic University of Gaza"
+    years: "1998 - 2003"
+    logo: "/images/IUGaza.png"
 
 # # =====================================================
 # # 💼 Work Experience Section
