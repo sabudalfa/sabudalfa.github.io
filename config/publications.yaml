@@ -30,62 +30,62 @@ publications:
         authors: "Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali"
         year: 2025
         venue: "Language Resources and Evaluation"
-        link: ""
+        link: "https://link.springer.com/article/10.1007/s10579-025-09895-4"
         featured: true
     
       - title: "An Empirical Evaluation of Arabic Text Formality Transfer: A Comparative Study"
         authors: "Fahad J. Abdu, Raed Mughaus, Shadi Abudalfa, Moataz Ahmed, Ahmed Abdelali"
         year: 2025
         venue: "Language Resources and Evaluation"
-        link: ""
+        link: "https://link.springer.com/article/10.1007/s10579-025-09873-w"
         featured: true
     
       - title: "A Hybrid Vision Transformer and Residual Neural Network Model for Fall Detection Using UWB Radars"
         authors: "Shadi Abudalfa, Kevin Bouchard"
         year: 2025
-        venue: "Applied Intelligence, Vol. 55, No. 3"
-        link: ""
+        venue: "Applied Intelligence"
+        link: "https://link.springer.com/article/10.1007/s10489-024-06156-9"
         featured: true
     
       - title: "Dual Pipeline Technique for Detecting Sepsis from Photoplethysmography"
         authors: "Shadi Abudalfa, Sara Lombardi, Eleonora Barcali, Leonardo Bocchi"
         year: 2025
-        venue: "International Journal of Data Mining and Bioinformatics, Vol. 29, No. 3"
-        link: ""
+        venue: "International Journal of Data Mining and Bioinformatics"
+        link: "https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2025.147058"
         featured: true
     
       - title: "Arabic Text Formality Modification: A Review and Future Research Directions"
         authors: "Shadi Abudalfa, Fahad Abdu, Maad Alowaifeer"
         year: 2024
-        venue: "IEEE Access, Vol. 12, pp. 185117–185148"
-        link: ""
+        venue: "IEEE Access"
+        link: "https://ieeexplore.ieee.org/abstract/document/10778487"
         featured: true
     
       - title: "Two-Stage RFID Approach for Localizing Objects in Smart Homes Based on Gradient Boosted Decision Trees"
         authors: "Shadi Abudalfa, Kevin Bouchard"
         year: 2023
         venue: "Journal of Reliable Intelligent Environments"
-        link: ""
+        link: "https://link.springer.com/article/10.1007/s40860-022-00199-w"
         featured: true
     
       - title: "Evaluation of Skeletonization Techniques for 2D Binary Images"
         authors: "Shadi Abudalfa"
         year: 2023
-        venue: "Informatics and Automation, Vol. 22, No. 5"
-        link: ""
+        venue: "Informatics and Automation"
+        link: "https://ia.spcras.ru/index.php/sp/article/view/15855"
         featured: false
     
       - title: "AT-ODTSA: A Dataset of Arabic Tweets for Open Domain Targeted Sentiment Analysis"
         authors: "Shaaban Sahmoud, Shadi Abudalfa, Wisam Elmasry"
         year: 2022
-        venue: "International Journal of Computing and Digital Systems, Vol. 11, No. 1"
-        link: ""
+        venue: "International Journal of Computing and Digital Systemm"
+        link: "https://openaccess.iku.edu.tr/entities/publication/6f546db7-f7a2-4d26-8153-d64cc0dd473f"
         featured: false
     
       - title: "Evaluating Performance of Semi-Supervised Clustering with Limited Features for Segmenting Salt Bodies in Seismic Images"
         authors: "Shadi Abudalfa"
         year: 2022
-        venue: "International Journal of Academic Multidisciplinary Research, Vol. 6, No. 2"
+        venue: "International Journal of Academic Multidisciplinary Research"
         link: ""
         featured: false
     
@@ -99,15 +99,15 @@ publications:
       - title: "Semi-Supervised Target-Dependent Sentiment Classification for Micro-Blogs"
         authors: "Shadi Abudalfa, Moataz Ahmed"
         year: 2019
-        venue: "Journal of Computer Science & Technology, Vol. 19, No. 1"
-        link: ""
+        venue: "Journal of Computer Science & Technology"
+        link: "https://sedici.unlp.edu.ar/handle/10915/74462"
         featured: false
     
       - title: "Open Domain Targeted Sentiment Classification Using Semi-Supervised Dynamic Feature Generation"
         authors: "Shadi Abudalfa, Moataz Ahmed"
         year: 2018
-        venue: "Journal of Universal Computer Science, Vol. 24, No. 11"
-        link: ""
+        venue: "Journal of Universal Computer Science"
+        link: "https://www.researchgate.net/profile/Shadi-Abudalfa/publication/330873022_Open_Domain_Targeted_Sentiment_Classification_Using_Semi-Supervised_Dynamic_Generation_of_Feature_Attributes/links/5caebcf5299bf120975d745d/Open-Domain-Targeted-Sentiment-Classification-Using-Semi-Supervised-Dynamic-Generation-of-Feature-Attributes.pdf"
         featured: true
     
       # ======================
@@ -132,7 +132,7 @@ publications:
         authors: "Shadi Abudalfa et al."
         year: 2025
         venue: "Third Arabic Natural Language Processing Conference (ArabicNLP)"
-        link: ""
+        link: "https://aclanthology.org/2025.arabicnlp-sharedtasks.1"
         featured: false
     
       - title: "Lightweight Uni-Domain Model for Human Activity Recognition Using UWB Radars"
