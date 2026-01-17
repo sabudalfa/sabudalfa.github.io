@@ -27,161 +27,161 @@ publications:
   # Journal Papers
   # ======================
 
-  - title: "MA’AKS: Manually-Curated Parallel Dataset for Arabic Text Sentiment Swap"
-    authors: "Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali"
-    year: 2025
-    venue: "Language Resources and Evaluation"
-    link: ""
-    featured: true
-
-  - title: "An Empirical Evaluation of Arabic Text Formality Transfer: A Comparative Study"
-    authors: "Fahad J. Abdu, Raed Mughaus, Shadi Abudalfa, Moataz Ahmed, Ahmed Abdelali"
-    year: 2025
-    venue: "Language Resources and Evaluation"
-    link: ""
-    featured: true
-
-  - title: "A Hybrid Vision Transformer and Residual Neural Network Model for Fall Detection Using UWB Radars"
-    authors: "Shadi Abudalfa, Kevin Bouchard"
-    year: 2025
-    venue: "Applied Intelligence, Vol. 55, No. 3"
-    link: ""
-    featured: true
-
-  - title: "Dual Pipeline Technique for Detecting Sepsis from Photoplethysmography"
-    authors: "Shadi Abudalfa, Sara Lombardi, Eleonora Barcali, Leonardo Bocchi"
-    year: 2025
-    venue: "International Journal of Data Mining and Bioinformatics, Vol. 29, No. 3"
-    link: ""
-    featured: true
-
-  - title: "Arabic Text Formality Modification: A Review and Future Research Directions"
-    authors: "Shadi Abudalfa, Fahad Abdu, Maad Alowaifeer"
-    year: 2024
-    venue: "IEEE Access, Vol. 12, pp. 185117–185148"
-    link: ""
-    featured: true
-
-  - title: "Two-Stage RFID Approach for Localizing Objects in Smart Homes Based on Gradient Boosted Decision Trees"
-    authors: "Shadi Abudalfa, Kevin Bouchard"
-    year: 2023
-    venue: "Journal of Reliable Intelligent Environments"
-    link: ""
-    featured: true
-
-  - title: "Evaluation of Skeletonization Techniques for 2D Binary Images"
-    authors: "Shadi Abudalfa"
-    year: 2023
-    venue: "Informatics and Automation, Vol. 22, No. 5"
-    link: ""
-    featured: false
-
-  - title: "AT-ODTSA: A Dataset of Arabic Tweets for Open Domain Targeted Sentiment Analysis"
-    authors: "Shaaban Sahmoud, Shadi Abudalfa, Wisam Elmasry"
-    year: 2022
-    venue: "International Journal of Computing and Digital Systems, Vol. 11, No. 1"
-    link: ""
-    featured: false
-
-  - title: "Evaluating Performance of Semi-Supervised Clustering with Limited Features for Segmenting Salt Bodies in Seismic Images"
-    authors: "Shadi Abudalfa"
-    year: 2022
-    venue: "International Journal of Academic Multidisciplinary Research, Vol. 6, No. 2"
-    link: ""
-    featured: false
-
-  - title: "Evaluating Performance of Supervised Learning Techniques for Developing Real-Time Intrusion Detection System"
-    authors: "Shadi I. Abudalfa, Ekhlas S. Isleem, Marah J. Elshaikh Khalil, Rewaa A. Dalloul, Shaimaa M. Iqtefan"
-    year: 2022
-    venue: "International Journal of Engineering and Information Systems"
-    link: ""
-    featured: false
-
-  - title: "Semi-Supervised Target-Dependent Sentiment Classification for Micro-Blogs"
-    authors: "Shadi Abudalfa, Moataz Ahmed"
-    year: 2019
-    venue: "Journal of Computer Science & Technology, Vol. 19, No. 1"
-    link: ""
-    featured: false
-
-  - title: "Open Domain Targeted Sentiment Classification Using Semi-Supervised Dynamic Feature Generation"
-    authors: "Shadi Abudalfa, Moataz Ahmed"
-    year: 2018
-    venue: "Journal of Universal Computer Science, Vol. 24, No. 11"
-    link: ""
-    featured: true
-
-  # ======================
-  # Conference Papers
-  # ======================
-
-  - title: "Entity Sentiment Classification Using Arabic Lightweight LLMs"
-    authors: "Muhammad Raza, Shadi Abudalfa"
-    year: 2025
-    venue: "International Conference on Engineering and Computing Technologies (EngiTek)"
-    link: ""
-    featured: false
-
-  - title: "Leveraging CLIP for Human Activity Recognition Using UWB Radar Data"
-    authors: "Shadi Abudalfa, Kevin Bouchard"
-    year: 2025
-    venue: "17th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI)"
-    link: ""
-    featured: false
-
-  - title: "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI-Generated Text Detection"
-    authors: "Shadi Abudalfa et al."
-    year: 2025
-    venue: "Third Arabic Natural Language Processing Conference (ArabicNLP)"
-    link: ""
-    featured: false
-
-  - title: "Lightweight Uni-Domain Model for Human Activity Recognition Using UWB Radars"
-    authors: "Shadi Abudalfa, Kevin Bouchard"
-    year: 2025
-    venue: "ACM International Conference on Information Technology for Social Good (GoodIT)"
-    link: ""
-    featured: false
-
-  - title: "Filtering Data from Motion Sensors with Rich Features for Monitoring Brushing Behaviors"
-    authors: "Shadi Abudalfa, Kevin Bouchard"
-    year: 2024
-    venue: "16th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI)"
-    link: ""
-    featured: false
-
-  - title: "Machine Learning for Early Detection of Type 2 Diabetes Based on Liver Enzymes and BMI"
-    authors: "Maali Alkhaldi et al., Shadi Abudalfa"
-    year: 2024
-    venue: "International Conference on Business and Digital Technology (ICBDT)"
-    link: ""
-    featured: false
-
-  - title: "Comparative Study on PaLM and CAMeLBERT for Arabic Entity Sentiment Classification"
-    authors: "Salman Almutrash, Shadi Abudalfa"
-    year: 2024
-    venue: "Saudi Conference on Information Systems (SaudiCIS)"
-    link: ""
-    featured: false
-
-  # ======================
-  # Patent
-  # ======================
-
-  - title: "Open Domain Targeted Sentiment Classification Using Semi-Supervised Dynamic Generation of Feature Attributes"
-    authors: "Shadi Abudalfa, Moataz Ahmed"
-    year: 2022
-    venue: "U.S. Patent No. 11,227,120"
-    link: ""
-    featured: false
-
-  # ======================
-  # Book
-  # ======================
-
-  - title: "Metaheuristic Clustering Algorithm"
-    authors: "Shadi Abudalfa"
-    year: 2011
-    venue: "LAP LAMBERT Academic Publishing"
-    link: ""
-    featured: false
+      - title: "MA’AKS: Manually-Curated Parallel Dataset for Arabic Text Sentiment Swap"
+        authors: "Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali"
+        year: 2025
+        venue: "Language Resources and Evaluation"
+        link: ""
+        featured: true
+    
+      - title: "An Empirical Evaluation of Arabic Text Formality Transfer: A Comparative Study"
+        authors: "Fahad J. Abdu, Raed Mughaus, Shadi Abudalfa, Moataz Ahmed, Ahmed Abdelali"
+        year: 2025
+        venue: "Language Resources and Evaluation"
+        link: ""
+        featured: true
+    
+      - title: "A Hybrid Vision Transformer and Residual Neural Network Model for Fall Detection Using UWB Radars"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2025
+        venue: "Applied Intelligence, Vol. 55, No. 3"
+        link: ""
+        featured: true
+    
+      - title: "Dual Pipeline Technique for Detecting Sepsis from Photoplethysmography"
+        authors: "Shadi Abudalfa, Sara Lombardi, Eleonora Barcali, Leonardo Bocchi"
+        year: 2025
+        venue: "International Journal of Data Mining and Bioinformatics, Vol. 29, No. 3"
+        link: ""
+        featured: true
+    
+      - title: "Arabic Text Formality Modification: A Review and Future Research Directions"
+        authors: "Shadi Abudalfa, Fahad Abdu, Maad Alowaifeer"
+        year: 2024
+        venue: "IEEE Access, Vol. 12, pp. 185117–185148"
+        link: ""
+        featured: true
+    
+      - title: "Two-Stage RFID Approach for Localizing Objects in Smart Homes Based on Gradient Boosted Decision Trees"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2023
+        venue: "Journal of Reliable Intelligent Environments"
+        link: ""
+        featured: true
+    
+      - title: "Evaluation of Skeletonization Techniques for 2D Binary Images"
+        authors: "Shadi Abudalfa"
+        year: 2023
+        venue: "Informatics and Automation, Vol. 22, No. 5"
+        link: ""
+        featured: false
+    
+      - title: "AT-ODTSA: A Dataset of Arabic Tweets for Open Domain Targeted Sentiment Analysis"
+        authors: "Shaaban Sahmoud, Shadi Abudalfa, Wisam Elmasry"
+        year: 2022
+        venue: "International Journal of Computing and Digital Systems, Vol. 11, No. 1"
+        link: ""
+        featured: false
+    
+      - title: "Evaluating Performance of Semi-Supervised Clustering with Limited Features for Segmenting Salt Bodies in Seismic Images"
+        authors: "Shadi Abudalfa"
+        year: 2022
+        venue: "International Journal of Academic Multidisciplinary Research, Vol. 6, No. 2"
+        link: ""
+        featured: false
+    
+      - title: "Evaluating Performance of Supervised Learning Techniques for Developing Real-Time Intrusion Detection System"
+        authors: "Shadi I. Abudalfa, Ekhlas S. Isleem, Marah J. Elshaikh Khalil, Rewaa A. Dalloul, Shaimaa M. Iqtefan"
+        year: 2022
+        venue: "International Journal of Engineering and Information Systems"
+        link: ""
+        featured: false
+    
+      - title: "Semi-Supervised Target-Dependent Sentiment Classification for Micro-Blogs"
+        authors: "Shadi Abudalfa, Moataz Ahmed"
+        year: 2019
+        venue: "Journal of Computer Science & Technology, Vol. 19, No. 1"
+        link: ""
+        featured: false
+    
+      - title: "Open Domain Targeted Sentiment Classification Using Semi-Supervised Dynamic Feature Generation"
+        authors: "Shadi Abudalfa, Moataz Ahmed"
+        year: 2018
+        venue: "Journal of Universal Computer Science, Vol. 24, No. 11"
+        link: ""
+        featured: true
+    
+      # ======================
+      # Conference Papers
+      # ======================
+    
+      - title: "Entity Sentiment Classification Using Arabic Lightweight LLMs"
+        authors: "Muhammad Raza, Shadi Abudalfa"
+        year: 2025
+        venue: "International Conference on Engineering and Computing Technologies (EngiTek)"
+        link: ""
+        featured: false
+    
+      - title: "Leveraging CLIP for Human Activity Recognition Using UWB Radar Data"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2025
+        venue: "17th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI)"
+        link: ""
+        featured: false
+    
+      - title: "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI-Generated Text Detection"
+        authors: "Shadi Abudalfa et al."
+        year: 2025
+        venue: "Third Arabic Natural Language Processing Conference (ArabicNLP)"
+        link: ""
+        featured: false
+    
+      - title: "Lightweight Uni-Domain Model for Human Activity Recognition Using UWB Radars"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2025
+        venue: "ACM International Conference on Information Technology for Social Good (GoodIT)"
+        link: ""
+        featured: false
+    
+      - title: "Filtering Data from Motion Sensors with Rich Features for Monitoring Brushing Behaviors"
+        authors: "Shadi Abudalfa, Kevin Bouchard"
+        year: 2024
+        venue: "16th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI)"
+        link: ""
+        featured: false
+    
+      - title: "Machine Learning for Early Detection of Type 2 Diabetes Based on Liver Enzymes and BMI"
+        authors: "Maali Alkhaldi et al., Shadi Abudalfa"
+        year: 2024
+        venue: "International Conference on Business and Digital Technology (ICBDT)"
+        link: ""
+        featured: false
+    
+      - title: "Comparative Study on PaLM and CAMeLBERT for Arabic Entity Sentiment Classification"
+        authors: "Salman Almutrash, Shadi Abudalfa"
+        year: 2024
+        venue: "Saudi Conference on Information Systems (SaudiCIS)"
+        link: ""
+        featured: false
+    
+      # ======================
+      # Patent
+      # ======================
+    
+      - title: "Open Domain Targeted Sentiment Classification Using Semi-Supervised Dynamic Generation of Feature Attributes"
+        authors: "Shadi Abudalfa, Moataz Ahmed"
+        year: 2022
+        venue: "U.S. Patent No. 11,227,120"
+        link: ""
+        featured: false
+    
+      # ======================
+      # Book
+      # ======================
+    
+      - title: "Metaheuristic Clustering Algorithm"
+        authors: "Shadi Abudalfa"
+        year: 2011
+        venue: "LAP LAMBERT Academic Publishing"
+        link: ""
+        featured: false
