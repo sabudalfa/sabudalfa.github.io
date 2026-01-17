@@ -51,10 +51,7 @@ profile:
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
-    Hi! I'm <strong>[Your Name]</strong>, a <em>[Your Title]</em> passionate about <em>[field or topic]</em>. Currently, I work as <em>[current role]</em> at <em>[organization]</em>, where I <em>[briefly describe your work or mission]</em>. 
-    With a background in <em>[academic or professional background]</em>, I've developed strong interests in <em>[key interests or specialties]</em> and have contributed to projects like <i>[example project]</i> and <i>[another example]</i>, all focused on <em>[broader goal or impact]</em>.
-    <div class="my-2"></div>
-    Outside of work, I enjoy <em>[hobbies or personal interests]</em>, which inspire creativity and keep me energized. Thanks for visiting! Feel free to <a href="mailto:[your-email@example.com]" target="_blank" rel="noopener noreferrer">reach out</a> to connect.
+     Shadi Abudalfa received his BSc and MSc degrees in Computer Engineering from the Islamic University of Gaza (IUG), Palestine, in 2003 and 2010, respectively. He earned his PhD in Computer Science and Engineering from King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia, in 2018 on a full-student scholarship. Abudalfa has extensive teaching experience, having worked as an assistant professor at the University College of Applied Sciences, Palestine. He is currently a research scientist at KFUPM. From July 2003 to August 2004, he served as a research assistant at the Projects and Research Lab at IUG and simultaneously worked as a teaching assistant in the Faculty of Engineering. He has reviewed for numerous international conferences and journals and has served as a guest editor for Frontiers in Artificial Intelligence. His contributions include several research publications and a patent. Additionally, he has been a PI and Co-I in some funded projects. His research interests focus on data mining, human activity recognition, and Arabic natural language processing.
 
 # # =====================================================
 # # 🎓 Education Section
