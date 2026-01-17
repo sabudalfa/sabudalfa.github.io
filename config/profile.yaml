@@ -31,10 +31,10 @@ profile:
         name: "FaGoogleScholar"
         package: "react-icons/fa6"
 
-    - name: "Github"
-      url: "https://github.com/sabudalfa"
+    - name: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Shadi-Abudalfa"
       icon:
-        name: "FaGithub"
+        name: "FaResearchgate"
         package: "react-icons/fa6"
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
