@@ -12,9 +12,9 @@
 # =====================================================
 
 profile:
-  name: "[Your Name]"
-  headline: "Student @ [Your University]"
-  email: "your-email@gmail.com"
+  name: "Shadi Abudalfa"
+  headline: "Research Scientist at King Fahd University of Petroleum & Minerals"
+  email: "shadi.abudalfa@kfupm.edu.sa"
   location: null
   profileImage: "https://github.com/pm25.png"
 
