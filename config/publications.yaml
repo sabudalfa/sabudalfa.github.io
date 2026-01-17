@@ -124,7 +124,7 @@ publications:
         link: "https://journals.tubitak.gov.tr/elektrik/vol21/iss6/12"
         featured: true
 
-      - title: "Adaptive Mobility Management Scheme for Mobile IP using Ad Hoc Networks"
+      - title: "A dynamic linkage clustering using KD-tree"
         authors: "Shadi Abudalfa, Mohammad Mikki"
         year: 2013
         venue: "The International Arab Journal of Information Technology"
@@ -137,7 +137,6 @@ publications:
         venue: "The International Arab Journal of Information Technology"
         link: "https://www.researchgate.net/profile/Shadi-Abudalfa/publication/220610527_Adaptive_Mobility_Management_Scheme_for_Mobile_IP_using_Ad_Hoc_Networks/links/5528d91b0cf29b22c9bcba07/Adaptive-Mobility-Management-Scheme-for-Mobile-IP-using-Ad-Hoc-Networks.pdf"
         featured: false
-    
     
       # ======================
       # Conference Papers
