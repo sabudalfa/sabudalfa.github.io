@@ -197,7 +197,7 @@ Pin-Yen Huang - [pyhuang97@gmail.com](mailto:pyhuang97@gmail.com)
 
 ## Acknowledgments
 
-I am deeply grateful for the following tools and resources that contributed to the development of this project:
+The developer is deeply grateful for the following tools and resources that contributed to the development of this project:
 
 - [giscus](https://giscus.app)
 - [React Icons](https://react-icons.github.io/react-icons)
