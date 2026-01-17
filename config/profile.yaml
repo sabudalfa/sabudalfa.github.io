@@ -37,12 +37,6 @@ profile:
         name: "FaGithub"
         package: "react-icons/fa6"
 
-    - name: "Facebook"
-      url: "https://www.facebook.com/shadi.abudalfa.98"
-      icon:
-        name: "FaSquareFacebook"
-        package: "react-icons/fa6"
-
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
      Shadi Abudalfa received his BSc and MSc degrees in Computer Engineering from the Islamic University of Gaza (IUG), Palestine, in 2003 and 2010, respectively. He earned his PhD in Computer Science and Engineering from King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia, in 2018 on a full-student scholarship. Abudalfa has extensive teaching experience, having worked as an assistant professor at the University College of Applied Sciences, Palestine. He is currently a research scientist at KFUPM. From July 2003 to August 2004, he served as a research assistant at the Projects and Research Lab at IUG and simultaneously worked as a teaching assistant in the Faculty of Engineering. He has reviewed for numerous international conferences and journals and has served as a guest editor for Frontiers in Artificial Intelligence. His contributions include several research publications and a patent. Additionally, he has been a PI and Co-I in some funded projects. His research interests focus on data mining, human activity recognition, and Arabic natural language processing.
