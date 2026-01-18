@@ -15,8 +15,8 @@
 
 projects:
   items:
-    - id: "example-project" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
-      displayName: "[Project Name]" # name that will be displayed on the website
+    - id: "ArabicTextSentimentSwapArabicTextSentimentSwap" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
+      displayName: "Arabic Text Sentiment Swap" # name that will be displayed on the website
       previewImage: https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg
       featured: true
 
