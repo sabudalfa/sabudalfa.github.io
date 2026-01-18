@@ -175,7 +175,7 @@ services:
 
   - category: "Teaching"
     role: "Instructor"
-    organization: "IUG,UCAS,KFUPM"
+    organization: "IUG, UCAS, KFUPM"
     date: "2004-2026"
     link: null
     image: null
