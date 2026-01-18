@@ -166,7 +166,7 @@ services:
     link: "https://ie2026.pt/index.php/doctoral-colloquium"
     image: null   
 
-   - category: "Research"
+  - category: "Research"
     role: "Program Co-Chair"
     organization: "SaudiCIS"
     date: "2024"
