@@ -53,6 +53,13 @@ publications:
         venue: "International Journal of Data Mining and Bioinformatics"
         link: "https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2025.147058"
         featured: true
+
+      - title: "The AraGenEval Shared Task on Arabic Authorship Style Transfer and AI Generated Text Detection"
+        authors: "Shadi Abudalfa, Saad Ezzini, Ahmed Abdelali, Hamza Alami, Abdessamad Benlahbib, Salmane Chafik, Mo El-Haj, Abdelkader El Mahdaouy, Mustafa Jarrar, Salima Lamsiyah, Hamzah Luqman"
+        year: 2025
+        venue: "ArabicNLP"
+        link: "https://underline.io/lecture/137113-the-arageneval-shared-task-on-arabic-authorship-style-transfer-and-ai-generated-text-detection"
+        featured: true
     
       - title: "Arabic Text Formality Modification: A Review and Future Research Directions"
         authors: "Shadi Abudalfa, Fahad Abdu, Maad Alowaifeer"
