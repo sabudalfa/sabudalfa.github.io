@@ -29,3 +29,23 @@ projects:
       displayName: "Arabic Text Formality Transfer"
       previewImage: null
       featured: true
+
+    - id: "HumanActivityRecognition"
+      displayName: "Human Activity Recognition"
+      previewImage: null
+      featured: true
+
+    - id: "AT-ODTSA"
+      displayName: "Dataset of Arabic Tweets for Open Domain Targeted Sentiment Analysis"
+      previewImage: null
+      featured: true
+
+    - id: "Target-DependentSentimentClassification"
+      displayName: "Target-Dependent Sentiment Classification"
+      previewImage: null
+      featured: true
+
+    - id: "DataClusteringAlgorithms"
+      displayName: "DataClusteringAlgorithms"
+      previewImage: null
+      featured: true
