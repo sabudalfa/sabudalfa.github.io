@@ -23,9 +23,17 @@ publications:
   items:
   # ======================
 
+
+      - title: "Generative Artificial Intelligence for Environmental Assessment: A New Paradigm for Sustainability Analysis"
+        authors: "Asif Raihan, Syed Rahman, Shadi Abudalfa"
+        year: 2026
+        venue: "Environmental Management"
+        link: "https://www.researchgate.net/publication/400315588_Generative_Artificial_Intelligence_for_Environmental_Assessment_A_New_Paradigm_for_Sustainability_Analysis"
+        featured: true
+
       - title: "MA’AKS: Manually-Curated Parallel Dataset for Arabic Text Sentiment Swap"
         authors: "Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali"
-        year: 2025
+        year: 2026
         venue: "Language Resources and Evaluation"
         link: "https://link.springer.com/article/10.1007/s10579-025-09895-4"
         featured: true
