@@ -192,12 +192,12 @@ skills:
       description: null
 
     - name: "Machine Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Noun-artificial-intelligence-884535.svg/120px-Noun-artificial-intelligence-884535.svg.png?20220802211741"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fc/CAH_tea_after_ACM03.png"
       proficiency: Experienced
       description: null
 
     - name: "Data Mining"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201806_DataAnalysis_on_display.svg/2560px-201806_DataAnalysis_on_display.svg.png"
       proficiency: Fluent
       description: null
 
