@@ -185,6 +185,22 @@ services:
 # # =====================================================
 
 skills:
+  Courses:
+    - name: "Computer Programming"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"
+      proficiency: Experienced
+      description: null
+
+    - name: "Machine Learning"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      proficiency: Experienced
+      description: null
+
+    - name: "Data Mining"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+      proficiency: Fluent
+      description: null
+
   Programming:
     - name: "C"
       logo: "https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"
