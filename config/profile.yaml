@@ -187,12 +187,12 @@ services:
 skills:
   Courses:
     - name: "Computer Programming"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
       proficiency: Experienced
       description: null
 
     - name: "Machine Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Noun-artificial-intelligence-884535.svg/120px-Noun-artificial-intelligence-884535.svg.png?20220802211741"
       proficiency: Experienced
       description: null
 
