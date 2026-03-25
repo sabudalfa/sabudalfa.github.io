@@ -30,6 +30,11 @@ projects:
       previewImage: null
       featured: true
 
+    - id: "ArabicTextAuthorshipStyleTransfer"
+      displayName: "Arabic Text Authorship Style Transfer"
+      previewImage: null
+      featured: true
+
     - id: "HumanActivityRecognition"
       displayName: "Human Activity Recognition"
       previewImage: null
