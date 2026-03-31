@@ -31,6 +31,20 @@ publications:
         link: "https://rdcu.be/e24dL"
         featured: true
 
+      - title: "Generative artificial intelligence for automated writing evaluation: A systematic review of trends, efficacy, and challenges"
+        authors: "Shadi Abudalfa, Jessie Barrot"
+        year: 2026
+        venue: "Assessing Writing"
+        link: "https://www.sciencedirect.com/science/article/pii/S1075293526000292?dgcid=coauthor"
+        featured: true
+
+      - title: "Arabic-based Agent for Authorship Style Transfer"
+        authors: "Shadi Abudalfa, Raed Mughaus, Ahmed Abdelali"
+        year: 2026
+        venue: "ACM Transactions on Asian and Low-Resource Language Information Processing"
+        link: "https://dl.acm.org/doi/10.1145/3806046"
+        featured: true
+
       - title: "MA’AKS: Manually-Curated Parallel Dataset for Arabic Text Sentiment Swap"
         authors: "Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali"
         year: 2026
