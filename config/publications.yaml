@@ -23,7 +23,13 @@ publications:
   items:
   # ======================
 
-
+      - title: "A comprehensive review of Artificial Intelligence in Qur’anic research: Trends, methods, challenges, and future directions"
+        authors: "Sadam Al-Azani, Shadi Abudalfa, Hussein Samma"
+        year: 2026
+        venue: "Information Processing & Management"
+        link: "https://www.sciencedirect.com/science/article/pii/S030645732600261X"
+        featured: true
+        
       - title: "Generative Artificial Intelligence for Environmental Assessment: A New Paradigm for Sustainability Analysis"
         authors: "Syed Rahman, Asif Raihan, Shadi Abudalfa"
         year: 2026
