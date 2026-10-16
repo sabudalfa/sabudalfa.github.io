@@ -13,7 +13,7 @@
 
 profile:
   name: "Shadi Abudalfa"
-  headline: "Assistant Professor at Onaizah Colleges, Assistant Professor at UCAS"
+  headline: "Assistant Professor at Onaizah Colleges"
   email: "sabudalfa@oc.edu.sa"
   location: null
   profileImage: "https://github.com/sabudalfa.png"
@@ -90,7 +90,7 @@ workExperience:
 
   - title: "Assistant Professor"
     company: "University College of Applied Sciences"
-    years: "August 2019 - Present"
+    years: "August 2019 - July 2023"
     logo: "/images/UCAS.png"
 
   - title: "Assistant Professor (Part-Time)"
